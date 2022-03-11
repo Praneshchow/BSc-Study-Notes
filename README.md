@@ -2,10 +2,12 @@
 
 My completed courses slides and books are added here. 
 
-**Courses:** 
+🧠 **Courses:** 
 
-* Data Communication
+* Computer Netorks
 * Computer Organization and Architecture
-* EEE
 * Algorithms
+* Data Communication
+* EEE
+
 
