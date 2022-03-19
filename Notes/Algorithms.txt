@@ -1,0 +1,18 @@
+Algorithms
+__________________________
+[Chapter 4]
+Greedy method
+Knapsack Problem
+Job Sequencing with Deadlines
+Optimal Merge Pattern
+Huffman Coding
+Minimum Spanning Tree
+Prim’s Algorithm
+Kruskal’s Algorithm
+Dijkstra Algorithm - Single Source Shortest Path
+
+
+
+
+
+
