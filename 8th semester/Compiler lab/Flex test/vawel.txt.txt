@@ -1,0 +1,26 @@
+%{
+  #include<string.h>
+  int count=0; 
+
+%}
+
+
+
+%%
+(a|e|i|o|u) { 
+	printf("%s is vowel", yytext); 
+    count++;
+}
+.+ { printf("it's not a vowel"); }
+%%
+
+
+int yywrap() {
+	return 1;
+}
+int main() {
+	
+	yyin = fopen ("vawel.txt", 
+	return 0;
+}
+

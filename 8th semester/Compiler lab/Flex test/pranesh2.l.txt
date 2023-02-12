@@ -1,0 +1,19 @@
+
+
+%%
+[a|e|i|o|u] { printf("it is valid"); }
+.+ { printf("it is not valid"); }
+
+%%
+
+
+int yywrap(){
+	return 1;
+}
+
+int main(){
+	yylex();
+	return 0;	
+}
+
+

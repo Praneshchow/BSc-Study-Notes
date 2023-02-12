@@ -1,0 +1,15 @@
+%%
+(0|1(01*0)*1)* { printf("%s Valid", yytext); }
+.+ { printf("Invalid Number "); }
+
+%%
+
+int yywrap(){
+	return 1;
+	
+}
+
+int main(){
+	yylex();
+	return 0;
+}

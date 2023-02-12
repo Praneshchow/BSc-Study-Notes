@@ -1,0 +1,34 @@
+; Write an assembly language procedure to swap the values of two registers.
+
+org 100h
+.DATA
+A DB ?
+B DB ?
+.CODE
+MAIN PROC
+    MOV AX,@DATA
+    MOV DS,AX
+    
+    ; INPUT
+    MOV AH,1   ; AH REGISTER USED FOR TAKING INPUT.
+    INT 21H
+    MOV A,AL   ; AL REGISTER HAVE THE INPUT. AND IT MOVE TO THE A VARIABLE.
+    INT 21H
+    MOV B,AL   ; AL REGISTER MOVE THE VALUE TO B VARIABLE. BEACUSE 'AL' REGISTER USED TO STORE INPUT. 
+    
+    MOV BL,A   ; A VARIABLE VALUE MOVE TO THE BL REGISTER
+    MOV CL,B   ; B VARIABLE VALUE MOVE TO THE CL REGISTER
+    
+    XCHG BL,CL      ; XCHG REGISTER SWAP THE VALUES OF 'BL' AND 'CL' REGISTER.
+    
+    ; OUTPUT OF BL, CL
+    MOV AH,2
+    MOV DL,BL           ; BL REGISTER OUTPUT
+    INT 21H
+    
+    MOV AH,2
+    MOV DL,CL           ; CL REGISTER OUTPUT
+    INT 21H
+ret
+    
+    

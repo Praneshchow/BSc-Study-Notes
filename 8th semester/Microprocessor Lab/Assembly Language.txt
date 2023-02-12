@@ -1,0 +1,45 @@
+
+Lab 2 | Basic Arithmetic Operation
+-------------------------------------
+1. For A=1, B=2,C=3 calculate 2A+2B-C using assembly language.
+2. Write an assembly language procedure to swap the values of two registers.
+
+Lab 3 | 
+-------------------------------------
+1. Assembly language for dividing the value of a register by 4.
+2. Assembly language for converting an upper case letter into a lower case letter and vice versa.
+3. Assembly language for checking if values of two registers are equal or not.
+4. Assembly language for multiplying the value of a register by 5.
+
+
+PRACTICE
+----------------------
+1) 2A+B-C
+2) SWAP TWO REGISTER
+3) INCREMENT
+4) Upper case to Lower case, Lower case to Upper case
+5) Compare two values and shows is the values are less than, greater or
+equal
+6) Shift left for multiply and shift right for division.
+
+
+From Exam Practice Problem
+---------------------------
+[COMPLETE] 1) Assembly language for basic arithmetic operation (addition, substraction,increment, decrement)
+
+[COMPLETE] 2) Assembly language for solving the equation 2A+B-2C where A=1, B=2, C=3
+
+3) Assembly language for converting an upper case letter into a lower case letter and vice versa. 
+
+4) Assembly language for checking if values of two register are equal or not. 
+
+5) Assembly language for multiplying the value of a register by 5. 
+
+7) Assembly language for taking any input and printing it.
+
+8) Assembly language for dividing the value of a register by 4.
+
+[COMPLETE] 9) Suppose AL=1 and BL=2, Write an assembly language to increament the value of AL and decrement the value of BL. then swap them. 
+
+
+
