@@ -1,6 +1,7 @@
 # University_Info
-
-My completed courses slides and books are added here. 
+**Repository for University Coursework Store**
+My completed courses Course work, Note and books are added here. 
+**University:** East Delta University
 
 🧠 **Courses:** 
 
@@ -14,8 +15,7 @@ My completed courses slides and books are added here.
 * EEE 111 - Introduction to Electronic Engineering
 * EEE 213 - Electronics Devices & Circuits
 * CSE 223 - Digital Electronics & Pulse Technique 
-
-
 * Object Oriented Programming (Java)
+
 
 
