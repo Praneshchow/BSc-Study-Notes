@@ -2,11 +2,13 @@
 # Welcome to the "University Information Repository" 🎓🙋🏻‍♂️
 
 🎓 **University:** East Delta University
+
 🎗️ **Department:** Computer Science and Engineering (CSE)
 
 In this repository, My Hand-written Notes, Slides, Assignments, Books, and Lab work. Enhance your academic journey with easy access to a wealth of knowledge.
 
 Happy learning!!! 😊
+
 Thanks for coming here 💚🤍
 
 
