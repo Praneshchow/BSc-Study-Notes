@@ -1,11 +1,14 @@
 # University_Info
-**Repository for University Coursework Store**
+# Welcome to the "University Information Repository" 🎓🙋🏻‍♂️
 
-My completed courses Course work, Note and books are added here. 
+🎓 **University:** East Delta University
+🎗️ **Department:** Computer Science and Engineering (CSE)
 
-**University:** East Delta University
+In this repository, My Hand-written Notes, Slides, Assignments, Books, and Lab work. Enhance your academic journey with easy access to a wealth of knowledge.
 
-**Department:** CSE
+Happy learning!!! 😊
+Thanks for coming here 💚🤍
+
 
 🧠 **Courses:** 
 
