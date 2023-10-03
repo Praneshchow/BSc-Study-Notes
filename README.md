@@ -27,4 +27,29 @@ Thanks for coming here 💚🤍
 * Object Oriented Programming (Java)
 
 
+## 7th Semester
 
+* Database Management System (DBMS) 
+* Database Management System (DBMS) Lab
+* Digital Electronics
+* Operating System (OS)
+* Operating System Lab
+* Chemistry
+
+## 8th Semester
+
+* CSE 319 - COMPILER DESIGN  
+* CSE 320 - COMPILER DESIGN LAB
+* HUM 201 - Economics 
+* CSE 315 - Microprocessor & Assembly Language
+* CSE 316 - Microprocessor & Assembly Language Lab 
+* CSE 411 - Software Engineering
+
+## 9th Semester
+
+* Computer Graphics
+* Computer Graphics Lab
+* Accounting
+* Machine Learning (ML)
+* Artificial intelligence (AI)
+* Artificial intelligence (AI) Lab
