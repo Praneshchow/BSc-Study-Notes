@@ -3,9 +3,9 @@
 
 🎓 **University:** East Delta University
 
-🎗️ **Department:** Computer Science and Engineering (CSE)
+🎗️ **Department:** B.Sc in Computer Science and Engineering (CSE)
 
-In this repository, My Hand-written Notes, Slides, Assignments, Books, and Lab work. Enhance your academic journey with easy access to a wealth of knowledge.
+In this repository, My handwritten notes, Slides, Assignments, Books, and Lab work. Enhance your academic journey with easy access to a wealth of knowledge.
 
 Happy learning!!! 😊
 
