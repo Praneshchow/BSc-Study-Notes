@@ -1,9 +1,11 @@
-# University_Info
+# University Notes
 # Welcome to the "University Information Repository" 🎓🙋🏻‍♂️
 
 🎓 **University:** East Delta University
 
 🎗️ **Department:** B.Sc in Computer Science and Engineering (CSE)
+
+![]([https://yourdomain.com](https://github.com/Praneshchow/University-Notes)/badge/praneshchow/University-Notes)
 
 In this repository, My handwritten notes, Slides, Assignments, Books, and Lab work. Enhance your academic journey with easy access to a wealth of knowledge.
 
