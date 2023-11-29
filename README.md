@@ -5,7 +5,7 @@
 
 🎗️ **Department:** B.Sc in Computer Science and Engineering (CSE)
 
-![](https://komarev.com/ghpvc/?username=Praneshchow/University-Notes)
+![](https://komarev.com/ghpvc/?username="https://github.com/Praneshchow/University-Notes")
 
 In this repository, My handwritten notes, Slides, Assignments, Books, and Lab work. Enhance your academic journey with easy access to a wealth of knowledge.
 
