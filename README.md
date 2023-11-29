@@ -5,8 +5,6 @@
 
 🎗️ **Department:** B.Sc in Computer Science and Engineering (CSE)
 
- <a href='https://www.free-counters.org/'>Counter</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=b37481c047a72954b5decd4f7c08198755dc3be3'></script><script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1109060/t/2"></script>
-
 In this repository, My handwritten notes, Slides, Assignments, Books, and Lab work. Enhance your academic journey with easy access to a wealth of knowledge.
 
 Happy learning!!! 😊
