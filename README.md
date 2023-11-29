@@ -5,7 +5,8 @@
 
 🎗️ **Department:** B.Sc in Computer Science and Engineering (CSE)
 
-![](https://komarev.com/ghpvc/?username="https://github.com/Praneshchow/University-Notes")
+<a href='https://www.free-counters.org/'>Counter</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=0ad6b9b2f70009d4fdb599e07ed6e88e680b6f1d'></script>
+<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1109058/t/2"></script>
 
 In this repository, My handwritten notes, Slides, Assignments, Books, and Lab work. Enhance your academic journey with easy access to a wealth of knowledge.
 
@@ -57,5 +58,6 @@ Thanks for coming here 💚🤍
 * Artificial intelligence (AI) Lab
 
 Thanks for coming here 💙✨
+.....
 
 <a href="https://info.flagcounter.com/Ur1J"><img src="https://s11.flagcounter.com/count/Ur1J/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_18/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
