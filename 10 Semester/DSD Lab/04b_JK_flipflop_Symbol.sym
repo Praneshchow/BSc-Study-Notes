@@ -1,0 +1,35 @@
+USER SYMBOL by DSCH 2.7a
+DATE 6/14/2023 10:31:03 AM
+SYM  #04_JK_flipflop_Symbol
+BB(0,0,30,40)
+TITLE 10 -2  #JK_flipflop
+MODEL 6000
+REC(5,5,20,30)
+PIN(0,10,0.00,0.00)J
+PIN(0,30,0.00,0.00)K
+PIN(0,20,0.00,0.00)clk1
+PIN(30,30,2.00,1.00)Q'
+PIN(30,10,2.00,1.00)Q
+LIG(0,10,5,10)
+LIG(0,30,5,30)
+LIG(0,20,5,20)
+LIG(25,30,30,30)
+LIG(25,10,30,10)
+LIG(5,5,5,35)
+LIG(5,5,25,5)
+LIG(25,5,25,35)
+LIG(25,35,5,35)
+VLG module sym20( J,K,clk1,Q',Q);
+VLG  input J,K,clk1;
+VLG  output Q',Q;
+VLG  nand #(13) nand3(w4,clk1,K,Q);
+VLG  nand #(20) nand2(w6,w4,w5);
+VLG  nand #(13) nand3(w9,Q',J,clk1);
+VLG  nand #(20) nand2(w5,w6,w9);
+VLG  nand #(13) nand2(w11,w10,w5);
+VLG  nand #(13) nand2(w12,w6,w10);
+VLG  not #(17) inv(w10,clk1);
+VLG  nand #(27) nand2(Q,Q',w11);
+VLG  nand #(27) nand2(Q',w12,Q);
+VLG endmodule
+FSYM
