@@ -1,13 +1,13 @@
-# University Notes
-# Welcome to the "University Information Repository" 🎓🙋🏻‍♂️
+# University Notes 🎓🙋🏻‍♂️
 
 🎓 **University:** East Delta University
 
 🎗️ **Department:** B.Sc in Computer Science and Engineering (CSE)
+<hr>
 
-In this repository, My handwritten notes, Slides, Assignments, Books, and Lab work. Enhance your academic journey with easy access to a wealth of knowledge.
+My handwritten notes, Slides, Assignments, Books, and Lab work are in this repository. Enhance your academic journey with easy access to a wealth of knowledge. It helps you a little bit. 
 
-Happy learning!!! 😊
+⭐ Star this Repository for easy access. Happy learning!!! 😊
 
 Thanks for coming here 💚🤍
 
@@ -55,6 +55,10 @@ Thanks for coming here 💚🤍
 * Artificial intelligence (AI) Lab
 
 Thanks for coming here 💙✨
-.....
+---------
+
+<a href="https://www.freecounterstat.com" title="website counter"><img src="https://counter11.optistats.ovh/private/freecounterstat.php?c=7c3uccgxt971ksql6nc2bjk61w8kxnw7" border="0" title="website counter" alt="website counter"></a>
+
+--------
 
 <a href="https://info.flagcounter.com/Ur1J"><img src="https://s11.flagcounter.com/count/Ur1J/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_18/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
