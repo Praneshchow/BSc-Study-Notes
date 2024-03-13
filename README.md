@@ -57,7 +57,7 @@ Thanks for coming here 💚🤍
 Thanks for coming here 💙✨
 ---------
 
-<a href="https://www.freecounterstat.com" title="website counter"><img src="https://counter11.optistats.ovh/private/freecounterstat.php?c=7c3uccgxt971ksql6nc2bjk61w8kxnw7" border="0" title="website counter" alt="website counter"></a>
+[![](https://visitcount.itsvg.in/api?id=BSc-Study-Notes&label=Profile%20Views&color=0&pretty=true)](https://visitcount.itsvg.in)
 
 --------
 
