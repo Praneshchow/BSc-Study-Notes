@@ -3,9 +3,10 @@
 🎓 **University:** East Delta University
 
 🎗️ **Department:** B.Sc in Computer Science and Engineering (CSE)
+
 <hr>
 
-My handwritten notes, Slides, Assignments, Books, and Lab work are in this repository. Enhance your academic journey with easy access to a wealth of knowledge. It helps you a little bit. 
+This repository contains some of the course notes, important files, handwritten notes, slides, assignments, books, and lab work. You can easily access provided course informations. Keep learning! 😊
 
 ⭐ Star this Repository for easy access. Happy learning!!! 😊
 
@@ -25,34 +26,15 @@ Thanks for coming here 💚🤍
 * EEE 213 - Electronics Devices & Circuits
 * CSE 223 - Digital Electronics & Pulse Technique 
 * Object Oriented Programming (Java)
-
-
-## 7th Semester
-
-* Database Management System (DBMS) 
-* Database Management System (DBMS) Lab
-* Digital Electronics
-* Operating System (OS)
-* Operating System Lab
-* Chemistry
-
-## 8th Semester
-
-* CSE 319 - COMPILER DESIGN  
-* CSE 320 - COMPILER DESIGN LAB
-* HUM 201 - Economics 
-* CSE 315 - Microprocessor & Assembly Language
-* CSE 316 - Microprocessor & Assembly Language Lab 
+* CSE 327 - Artificial Intelligence
 * CSE 411 - Software Engineering
+* CSE 327 - Artificial Intelligence
+* CSE 423 - Digital System Design (DSD)
+* CSE 443 - Neural Network and Fuzzy Systems
+* CSE 445 - Machine Learning
+* HUM 107 - Industrial Management and Law
+* Math 203 - Fourier Analysis, Laplace Transform & Differential Equations
 
-## 9th Semester
-
-* Computer Graphics
-* Computer Graphics Lab
-* Accounting
-* Machine Learning (ML)
-* Artificial intelligence (AI)
-* Artificial intelligence (AI) Lab
 
 Thanks for coming here 💙✨
 ---------
