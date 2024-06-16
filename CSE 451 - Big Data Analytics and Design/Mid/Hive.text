@@ -1,0 +1,37 @@
+Create Database 
+> CREATE DATABASE [IF NOT EXISTS] userdb;
+> CREATE SCHEMA userdb;
+
+Drop database
+> DROP DATABASE [IF EXISTS] userdb;
+> DROP SCHEMA userdb;
+
+Create table
+CREATE TABLE IF NOT EXITS employees( id int, name string)
+
+Partition
+ADD > ALTER TABLE employee ADD PARTITION (year='2013') location '...'
+DROP > ALTER TABLE employee DROP [IF EXIST] PARTITION (year='2013')
+
+Select where
+SELECT * 
+FROM employee
+WHERE salary > 30000;
+
+Select order by
+SELECT id, name, dept
+FROM employee 
+ORDER BY dept
+
+Select group by
+SELECT dept, count (*)
+FROM employee
+GROUP BY dept
+
+Select joins
+SELECT c.Id, c.name, c.salary, o.amount
+FROM customer c JOIN orders o
+ON (c.id = o.amount) 
+
+Join, Left outer join, right outer join, full outer join 
+
