@@ -41,4 +41,4 @@ Thanks for coming here 💙✨
 
 --------
 
-<a href="https://info.flagcounter.com/30FM"><img src="https://s01.flagcounter.com/count/30FM/bg_FFFFFF/txt_2B2B2B/border_FFFFFF/columns_5/maxflags_10/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+<a href="https://info.flagcounter.com/30FM"><img src="https://s01.flagcounter.com/count/30FM/bg_000000/txt_FFFFFF/border_878787/columns_5/maxflags_15/viewers_Guests+from+all+over+the+world/labels_0/pageviews_1/flags_1/percent_0/" alt="Free counters!" border="0"></a>
